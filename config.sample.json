@@ -1,0 +1,6 @@
+{
+  "mongoDbUrl": "mongodb://localhost:27017",
+  "mongoDbUserName": "foo",
+  "mongoDbPassword": "bar",
+  "port": "10000"
+}
